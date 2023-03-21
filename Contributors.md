@@ -2034,6 +2034,7 @@ Rishabh Pandey
 - [Shreyas Bhagwat](https://github.com/ShreyasBhagwat)
 - [Sahil Barsaiyan](https://github.com/Sahilb12)
 - [Dario Gumucio](https://github.com/dariogumucio)
+- [PUSHCOMMIT](https://github.com/pushcommit)
 - [John Denver Bidong](https://github.com/jbidz)
 - [Gilberto Rosendo](https://github.com/GilbertoRosendo)
 - [Raghuram Aluru@DevSoc]
